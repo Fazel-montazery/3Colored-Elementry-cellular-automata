@@ -2,8 +2,9 @@
 simple 3colored cellular automation
 
 ## Building
+just use the makefile (the binary file is also included)
 ```bash
-make
+make main
 ```
 
 ## Usage
